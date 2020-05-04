@@ -1,5 +1,5 @@
 console.log('Hello');
 
 if (1 === 1) {
-  console.log('Hurra');
+  console.log('dupa');
 }
